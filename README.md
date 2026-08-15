@@ -16,8 +16,8 @@ This is an index of all my projects. I'll try my best to keep it updated. Becaus
 4. **`04. binet.py`** (Python) – Constant-time $O(1)$ Fibonacci calculation using Binet's formula and logarithmic bounds.
 5. **`05. binet.cpp`** (C++) – C++ implementation of logarithmic and floating-point closed-form calculations.
 6. **`06. matrices.py`** (Python) – $O(\log N)$ binary matrix exponentiation solver for fast Fibonacci computation.
-7. **`07. bigintmatrices.cpp`** (C++) – Modern C++23 custom Base-$10^9$ `BigInt` structure featuring Binet pre-allocation and matrix exponentiation.
-8. **`08. fence.cpp`** (C++) – Solution to a past USACO bronze problem using $O(N + R)$ range updates via difference arrays.
+7. **`07. matrices.cpp`** (C++) – Modern C++23 custom Base-$10^9$ `BigInt` structure featuring Binet pre-allocation and matrix exponentiation.
+8. **`08. fence.cpp`** (C++) – Solution to an unofficial USACO bronze-like practice problem using $O(N + R)$ range updates via difference arrays.
 
 ---
 
